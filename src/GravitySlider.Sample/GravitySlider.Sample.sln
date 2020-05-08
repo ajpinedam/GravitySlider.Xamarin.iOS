@@ -1,0 +1,33 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravitySlider.Sample", "GravitySlider.Sample\GravitySlider.Sample.csproj", "{2DBF0054-1E29-4BAA-9437-DCAA8D9BF986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravitySlider.Xamarin", "..\GravitySlider.Xamarin\GravitySlider.Xamarin\GravitySlider.Xamarin.csproj", "{D1F1351B-9F30-4263-B618-39ACE0ADB295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DBF0054-1E29-4BAA-9437-DCAA8D9BF986}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2DBF0054-1E29-4BAA-9437-DCAA8D9BF986}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2DBF0054-1E29-4BAA-9437-DCAA8D9BF986}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2DBF0054-1E29-4BAA-9437-DCAA8D9BF986}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{2DBF0054-1E29-4BAA-9437-DCAA8D9BF986}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2DBF0054-1E29-4BAA-9437-DCAA8D9BF986}.Debug|iPhone.Build.0 = Debug|iPhone
+		{2DBF0054-1E29-4BAA-9437-DCAA8D9BF986}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2DBF0054-1E29-4BAA-9437-DCAA8D9BF986}.Release|iPhone.Build.0 = Release|iPhone
+		{D1F1351B-9F30-4263-B618-39ACE0ADB295}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{D1F1351B-9F30-4263-B618-39ACE0ADB295}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{D1F1351B-9F30-4263-B618-39ACE0ADB295}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{D1F1351B-9F30-4263-B618-39ACE0ADB295}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{D1F1351B-9F30-4263-B618-39ACE0ADB295}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{D1F1351B-9F30-4263-B618-39ACE0ADB295}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{D1F1351B-9F30-4263-B618-39ACE0ADB295}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{D1F1351B-9F30-4263-B618-39ACE0ADB295}.Release|iPhone.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
